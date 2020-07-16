@@ -4,3 +4,4 @@ both need this
 edited again by dummy branch
 modifying master 1 twice by dummy
 sample file created on master branch
+in end by master
